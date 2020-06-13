@@ -8,4 +8,5 @@ Goals of BSR :
     Provide more flexibility in RP election. With Auto-RP, if there are 2 candidates RPs for the same set of groups, only one is used (highest IP). BSR allows to use both of them by selecting RP based on a hash.
 aaaa
 bbbb
+cccc
 """
